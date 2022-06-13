@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Obrad Lacman, a **Full Stack Web Developer** (specializing in **React Applications**). I've already got my Bachelor's Degree in **Computer Science & Engineering**.
+🎓 I am **Obrad Lacman**, a **Full Stack Web Developer** (specializing in **React Applications**). I've already got my Bachelor's Degree in **Computer Science & Engineering**.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**.
 
@@ -86,7 +86,7 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lacmansoftware)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lacmansoftware@gmail.com)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/lacmansoftware)
-[![skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=Skype&logoColor=white)](live:.cid.f8a81b25e2efe7f0)
+[![skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=Skype&logoColor=white)](https://skype:live:.cid.f8a81b25e2efe7f0?chat)
 
 <!---
 lacmansoftware/lacmansoftware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
