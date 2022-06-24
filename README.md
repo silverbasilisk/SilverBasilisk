@@ -82,4 +82,5 @@
 [![skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=Skype&logoColor=white)](skype:live:.cid.f8a81b25e2efe7f0?chat)
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lacmansoftware)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lacmansoftware&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lacmansoftware&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
