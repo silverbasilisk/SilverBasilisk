@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am a **Full Stack Web Developer** (specializing in **React Applications**). I've already got my Bachelor's Degree in **Computer Science & Engineering**.
+🎓 I am Bojan who is a **Full Stack Web Developer** (specializing in **React Applications**). I've already got my Bachelor's Degree in **Computer Science & Engineering**.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**.
 
