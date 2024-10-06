@@ -1,20 +1,3 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-
-## 🚀 About Me
-
-🎓 I am Matthew who is a **Senior Software Engineer** (specializing in **React and C#**). I've already got my Bachelor's Degree in **Computer Science & Engineering**.
-
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**.
-
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
-
-## 🏅 Achievements
-
--   📝 **3+ years of professional exposure** in **JavaScript technology** such as **React JS**, **Angular**, **MongoDB**, **Express.js** and **Node.js**
--   🏆 **3+ years of strong experience** in building ecommerce application using the JavaScript **MEAN Stack** and **MERN stack** using Redux, Flux, Babel+ES6, EXT JS and Web-Pack, Single Page Application development 
--   ⏫ **Expertise** in developing **decentralized blockchain applications** using Ethereum and Binance, building and deploying many **smart contracts**
--   🚁 **Expertise** in developing web pages using HTML5, CSS3, MVC, SASS, LESS, Object Oriented JavaScript, ES6, jQuery, AJAX, JSON, XML. Good understanding of Document Object Model(DOM) and DOM Functions. 
-
 ## 🛠️ Skills
 
 ### Languages
@@ -47,11 +30,6 @@
 ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-### Cross Platform Development
-
-![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
-![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
